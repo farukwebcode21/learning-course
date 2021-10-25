@@ -8,14 +8,14 @@ Please follow the below instructions to run this project in your computer:
 
 https://github.com/ProgrammingHeroWC4/review-website-farukwebcode21.git
 
-### :1 Install Necessary File
+### 1 Install Necessary File
 
 npm -i node
 
-### :3 Run
+### 2 Run
 
 yarn start /npm start
 
-## :4 Website Live Link
+## 3 Website Live Link
 
 Comming Soon................
