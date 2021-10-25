@@ -1,14 +1,42 @@
 [
-     {
+    {
         "id": "101",
-        "paragraph": "As a web developer, your credibility is more about the strength of your portfolio than it is about your credentials. Your employment opportunities will often come from concrete skills and samples of your work rather than a degree from a university. It’s not that a proper college education isn’t important or valuable as a web developer.he kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go. Just make sure you enable them first via JavaScript",
-        "img_1":"https://i.ibb.co/f9dZc6W/about-1.jpg"
-     },
+        "course": "Web Developer",
+        "instructor": "Rayan Tompson",
+        "instructor_2": "Jenna Kardi",
+        "course_id": "Backend Developer",
+        "img" : "https://i.ibb.co/P1Vtyj7/Screenshot-from-2021-10-25-01-28-46.png",
+        "img_2" : "https://i.ibb.co/X2VMr72/Screenshot-from-2021-10-25-01-28-32.png",
+        "img_3" : "https://demos.creative-tim.com/notus-js/assets/img/team-3-800x800.jpg",
+        "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business",
+        "description_id" : "A strong internet presence has become essential for every new and growing business today. The first and foremost way for a business to begin online is through designing a spectacular website that can represent its core ideas and the brand. With this need for crafting cool and amazing "
+    },
+    {
+        "id": "102",
+        "course": "Application Developer",
+        "instructor": "Romina Hadid",
+        "course_id": "UI/UX DESIGNER",
+        "instructor_2": "Alex Smith",
+        "img" : "https://i.ibb.co/QJVb4Jw/Screenshot-from-2021-10-25-01-27-43.png",
+        "img_2" : "https://i.ibb.co/pnqq5HS/Screenshot-from-2021-10-25-01-28-10.png",
+        "img_4" : "https://demos.creative-tim.com/notus-js/assets/img/team-2-800x800.jpg",
+        "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business",
+        "description_id" : "A strong internet presence has become essential for every new and growing business today. The first and foremost way for a business to begin online is through designing a spectacular website that can represent its core ideas and the brand. With this need for crafting cool and amazing "
+    },
+
 
      {
-         "id": "102",
-        "paragraph": "",
-        "img_2":"https://i.ibb.co/f9dZc6W/about-2.jpg"
-     }
+        "id": "103",
+        "instructor": "Rins Karmise",
+        "course": "Graphic Designer",
+        "instructor_2": "Flip Salmon",
+        "course_id": "Game Developer",
+        "img" : "https://i.ibb.co/7rmrz6T/Screenshot-from-2021-10-25-01-27-55.png",
+        "img_2" : "https://i.ibb.co/BN5q4RJ/Screenshot-from-2021-10-25-01-28-56.png",
+        "img_5": "https://demos.creative-tim.com/notus-js/assets/img/team-1-800x800.jpg",
+        "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business",
+        "description_id" : "A strong internet presence has become essential for every new and growing business today. The first and foremost way for a business to begin online is through designing a spectacular website that can represent its core ideas and the brand. With this need for crafting cool and amazing websites"
+
+    }
 
 ]

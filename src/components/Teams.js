@@ -6,11 +6,9 @@ const Teams = () => {
              <section className="pt-20 pb-20">
         <div className="flex flex-wrap justify-center text-center mb-24">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold  text-blueGray-700">Here are our Talent Teacher</h2>
+              <h2 class="text-4xl font-semibold  text-blue text-gray-700">Here are our Talent Teacher</h2>
               <p class="text-lg leading-relaxed m-4 text-blueGray-500">
-                According to the National Oceanic and Atmospheric
-                Administration, Ted, Scambos, NSIDClead scentist, puts the
-                potentially record maximum.
+                All Teachera are Prepared Every Time For Helping Your Carrier
               </p>
             </div>
           </div>
@@ -30,7 +28,7 @@ const Teams = () => {
                 <img alt="..." src="https://demos.creative-tim.com/notus-js/assets/img/team-2-800x800.jpg" className="shadow-lg rounded-full mx-auto max-w-120-px"/>
                 <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold text-blueGray-700">Romina Hadid</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">Marketing Specialist</p>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">Android Developer</p>
                 </div>
             </div>
             </div>
@@ -50,7 +48,7 @@ const Teams = () => {
                 <img alt="..." src="https://demos.creative-tim.com/notus-js/assets/img/team-4-470x470.png" class="shadow-lg rounded-full mx-auto max-w-120-px"/>
                 <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold text-blueGray-700">Jenna Kardi</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">Founder and CEO</p>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">Backend Developera</p>
                 </div>
             </div>
             </div>

@@ -9,6 +9,7 @@ import Teams from './components/Teams';
 import PageNotFound from './components/404';
 
 function App() {
+
   return (
     <>
       <Router>
